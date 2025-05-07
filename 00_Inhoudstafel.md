@@ -11,4 +11,4 @@
 * [Tijdens de activiteit: gebruik percolator](99_apparaten/gebruik_percolator.md)
 * [Na de activiteit](06_na_de_activiteit/06_na_de_activiteit.md)
 
-# TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"
+_#TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"

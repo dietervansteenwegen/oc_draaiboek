@@ -12,14 +12,15 @@
 
 ## Gebruik
 
-* Vuile vaat op voorhand afsproeien
+* Vuile vaat op voorhand afsproeien (handsproeier rechts van de vaatwasser)
 * Mand in machine schuiven
 * Machine sluiten, start automatisch
-* Wanneer lichtje van tweede knop uit is mag machine open
+* Pas wanneer het lichtje van tweede knop uit is, mag de machine open
 
 ## Afsluiten
 
-* Zet de rode knop tegen muur op 0
-* Neem de roosters en filter/stop uit de machine. Spoel ze af en leg ze los terug zodat alles kan drogen.
+* Zet de rode knop tegen de muur op 0
+* Kantel het frame naar omhoog en neem de roosters en filter/stop uit de machine. Laat de machine leeglopen en verwijder eventueel vuil.
+* Spoel de losse stukken (roosters en filter) af en leg ze terug zodat alles kan drogen.
 
 * #TODO foto's toevoegen

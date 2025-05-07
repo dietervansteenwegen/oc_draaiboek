@@ -6,42 +6,44 @@
 * Prijslijsten ophangen
 * Klaarzetten bij de bar:
   * Bakken voor leeggoed
-  * Afvalbakken (glas, PMD, papier, rest)
-  * Afwasmanden (die in de vaatwas gaan)
+  * Afvalbakken voor glas, PMD, papier en rest. Label deze zodat iedereen dezelfde verdeling gebruikt.
+  * Afwasmanden van de vaatwasser zodat afwas gemakkelijk verzameld kan worden.
 * Klaarzetten op koer (indien buiten):
-  * Afruimplek voor ouders en kinderen #TODO: verduidelijken
-* Muziek klaarzetten #TODO: Hoe?
+  * Afruimplek (lege mand voor in de vaatwasser en een glasbak voor Richie)
+* Muziek klaarzetten \#TODO: Hoe?
 
 ## Wat vind je waar?
 
-| Wat                            | Waar                                     | Opmerkingen  |
-| ------------------------------ | ---------------------------------------- | ------------ |
-| Glazen                         | Kast restaurantje                        |              |
-| Toogplanken                    | Boven op de kasten (restaurantje)        |              |
-| Prijslijsten + plakband        | Kast restaurantje bovenste schuif rechts |              |
-| Kurkentrekkers + schrijfgerief | Kast restaurantje bovenste schuif rechts |              |
-| Dienbladen                     | Keuken                                   | #TODO: Waar? |
-| Plastic bekers                 | Keuken, kast naast vaatwasmachine        |              |
-| Servies en bestek              | Keuken, kast naast vaatwasmachine        |              |
-| Voorraad drank                 | Kelder via keuken                        |              |
-| Statafels                      | Kelder via bruine zaal                   |              |
-| Spoeltafels                    | Kelder via bruine zaal                   |              |
-| Verlengkabels                  | Kelder via bruine zaal                   |              |
-| Vuurkorven                     | Kelder via bruine zaal                   |              |
-| Ladders                        | Onderaan trap vanuit bruine zaal         |              |
-| Handdoeken                     | Restaurantje                             | #TODO: Waar? |
-| Verdeeldozen                   |                                          | #TODO: Waar? |
+| Wat                            | Waar                                     | Opmerkingen                                       |
+| ------------------------------ | ---------------------------------------- | ------------------------------------------------- |
+| Glazen                         | Kast restaurantje                        |                                                   |
+| Toogplanken                    | Boven op de kasten (restaurantje)        |                                                   |
+| Prijslijsten + plakband        | Kast restaurantje bovenste schuif rechts |                                                   |
+| Kurkentrekkers + schrijfgerief | Kast restaurantje bovenste schuif rechts |                                                   |
+| Dienbladen                     | Keuken                                   | #TODO: Waar?                                      |
+| Schotelvodden                  | Restaurantje, kastjes naast de keuken    | Na gebruik op het droogrekje in de keuken hangen. |
+| Plastic bekers                 | Keuken, kast naast vaatwasmachine        |                                                   |
+| Servies en bestek              | Keuken, kast naast vaatwasmachine        |                                                   |
+| Voorraad drank                 | Kelder via keuken                        |                                                   |
+| Statafels                      | Kelder via bruine zaal                   |                                                   |
+| Spoeltafels                    | Kelder via bruine zaal                   |                                                   |
+| Verlengkabels                  | Kelder via bruine zaal                   |                                                   |
+| Vuurkorven                     | Kelder via bruine zaal                   |                                                   |
+| Ladders                        | Onderaan trap vanuit bruine zaal         |                                                   |
+| Handdoeken                     | Restaurantje                             | #TODO: Waar?                                      |
+| Verdeeldozen                   |                                          | #TODO: Waar?                                      |
+| Borstel/vuilblik               |                                          | #TODO: waar?                                             |
+| Dweil                          |                                          | #TODO: waar? |
 
 ![alt text](imgs/Kasten_restaurantje.png)
 ![alt text](imgs/Overzicht_kelder_koen.png)
+
 * #TODO: invoegen foto met nummers/markeringen
 
-## Opstelling bij bar buiten
+## Opstelling van de bar
 
-* #TODO: invoegen fotos
+* Maak foto's van de opstelling van de tafels in het restaurantje zodat je die achteraf op dezelfde manier kan terugzetten.
 
-## Opstelling bij bar binnen
+![Bar opstelling](imgs/Bar_configuratie_binnen.jpg)
 
-* Maak foto's van de opstelling van de tafels in het restaurantje
-
-* #TODO: invoegen fotos
+* #TODO: invoegen fotos bar indien binnen
