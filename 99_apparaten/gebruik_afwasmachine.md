@@ -4,7 +4,6 @@
 
 * Steek de filter/stop in
 * Leg de 4 roosters in de machine
-* Giet een half bekertje product (staat naast machine) op de roosters
 * Sluit de machine (!)
 * Zet de rode knop tegen muur op 1
 * Druk op de 1e groene knop. Machine draait nu en het water warmt op.
