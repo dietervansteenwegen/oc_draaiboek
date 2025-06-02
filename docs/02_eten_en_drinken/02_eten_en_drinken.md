@@ -1,4 +1,4 @@
-# ETEN EN DRINKEN
+# Eten en drinken
 
 ## Drinken
 
