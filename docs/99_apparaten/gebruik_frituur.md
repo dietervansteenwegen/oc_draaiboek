@@ -5,5 +5,5 @@
 * De frituur is klaar
 * Na gebruik de temperatuur terug op het minimum zetten
 
-\#TODO: afzuiging (Karolien?)
-\#TODO: friteuse checken en foto's maken/invoegen
+* [ ] #TODO: afzuiging (Karolien?)
+* [ ] #TODO: friteuse checken en foto's maken/invoegen

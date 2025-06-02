@@ -16,11 +16,11 @@
   * Wijn (wit/rosé/rood)
 * Voor het vaste drankaanbod is er een standaard prijslijst. Die vind je [hier](https://docs.google.com/document/d/1uYmumYbDPdmqLhHUQfv2uvXYHswG2ICI/edit?usp=sharing&ouid=115274712233814903018&rtpof=true&sd=true).
 
-\#TODO: koffie en thee verduidelijken
+* [ ] #TODO: koffie en thee verduidelijken
 
 * Prijslijst ligt klaar in één van de schuiven naast de ijskasten en moet enkel opgehangen worden (zie verder bij [voor de activiteit](voor_activiteit.md)).
 
-\# TODO: prijslijst 10x afdrukken, lamineren en in schuif steken
+* [ ] #TODO: prijslijst 10x afdrukken, lamineren en in schuif steken
 
 * Het oudercomité zorgt zelf voor voldoende voorraad aan de hand van het doorgegeven verbruik van de vorige activiteit.
 * Betaling tijdens de activiteit gebeuren via de drankenkaart van de school.

@@ -26,4 +26,4 @@ maxdepth: 3
 06_na_de_activiteit/06_na_de_activiteit
 ```
 
-_#TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"
+* [ ] #TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"

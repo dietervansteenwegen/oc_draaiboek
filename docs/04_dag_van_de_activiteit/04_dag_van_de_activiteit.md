@@ -10,7 +10,7 @@
   * Afwasmanden van de vaatwasser zodat afwas gemakkelijk verzameld kan worden.
 * Klaarzetten op koer (indien buiten):
   * Afruimplek (lege mand voor in de vaatwasser en een glasbak voor Richie)
-* Muziek klaarzetten \#TODO: Hoe?
+* Muziek klaarzetten * [ ] #TODO: Hoe?
 
 ## Wat vind je waar?
 
