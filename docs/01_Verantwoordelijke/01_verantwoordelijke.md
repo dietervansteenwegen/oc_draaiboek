@@ -8,7 +8,7 @@ Dit is een lid van het schoolteam of oudercomité.
 
 * Volgt draaiboek op
 * Maakt een werklijst op en verspreidt deze (template [hier](https://docs.google.com/spreadsheets/d/177N_4OQjkTTwYbTV1uMVCSnISn0sZjsPe9_F_HkAVFU/edit?usp=sharing)).
-* Regelt eigen aanbod (zie [Eten en drinken](02_eten_en_drinken.md))
+* Regelt eigen aanbod (zie [Eten en drinken](../02_eten_en_drinken/02_eten_en_drinken.md)
 * Beheert financiën (cash, PayConiq, drankkaarten). Deze worden afgehaald en teruggebracht na afspraak met Ilse.
 * Houdt het verbruik van de drank bij. Indien geen verbruik wordt bijgehouden, wordt er ook geen berekening gemaakt van de winst van de activiteit.
 * Sluit de school af na de activiteit.
