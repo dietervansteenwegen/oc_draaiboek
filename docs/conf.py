@@ -50,7 +50,7 @@ project = "Draaiboek OC De Oogappel"
 author = "Dieter Vansteenwegen"
 copyright = "{}, {}".format(datetime.date.today().year, author)
 
-html_logo = "oogappel.png"
+html_logo = "Oogappel_logo.png"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
