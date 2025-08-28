@@ -1,5 +1,9 @@
 # TODO Draaiboek
 
+## 01 Verantwoordelijke
+
+* [ ] Screenshots werklijkst aanmaken toevoegen. Nederlandse termen toevoegen?
+
 ## 02 Eten en drinken
 
 * [ ] Gebruik/prep koffie en thee verduidelijken
