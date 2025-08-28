@@ -11,6 +11,7 @@ De verantwoordelijke kan onderstaande taken zelf uitvoeren of aan iemand anders 
 * Volgt draaiboek op
 * Maakt een kopie van de werklijst en stuurt de link  uit (uitleg [hieronder](01_verantwoordelijke.md#werklijst-maken-en-delen)).
 * Regelt eigen aanbod (zie [Eten en drinken](../02_eten_en_drinken/02_eten_en_drinken.md))
+* Zorgt voor de bestellingen (indien nodig). Een lijst van leveranciers staat in de Google Drive onder `B. Huidige prijslijst en leveranciers`.
 * Beheert financiën (cash, PayConiq, drankkaarten). Deze worden afgehaald en teruggebracht na afspraak met Ilse.
 * Houdt het verbruik van de drank bij (tellen voorraad voor en na het café). Indien geen verbruik wordt bijgehouden, wordt er ook geen berekening gemaakt van de winst van de activiteit.
 * Sluit de school af na de activiteit.
