@@ -12,13 +12,13 @@ De verantwoordelijke kan onderstaande taken zelf uitvoeren of aan iemand anders 
 * Maakt een kopie van de werklijst en stuurt de link  uit (uitleg [hieronder](01_verantwoordelijke.md#werklijst-maken-en-delen)).
 * Regelt eigen aanbod (zie [Eten en drinken](../02_eten_en_drinken/02_eten_en_drinken.md))
 * Zorgt voor de bestellingen (indien nodig). Een lijst van leveranciers staat in de Google Drive onder `B. Huidige prijslijst en leveranciers`.
-* Beheert financiën (cash, PayConiq, drankkaarten). Deze worden afgehaald en teruggebracht na afspraak met Ilse.
-* Houdt het verbruik van de drank bij (tellen voorraad voor en na het café). Indien geen verbruik wordt bijgehouden, wordt er ook geen berekening gemaakt van de winst van de activiteit.
 * Sluit de school af na de activiteit.
 * Maakt duidelijkheid over welke delen van de school toegankelijk zijn en wie dit opvolgt.
 * Stuurt de communicatie uit:
   * Berichten op Gimme
   * Whatsapp groepen klassen
+* Beheert financiën (cash, PayConiq, drankkaarten). Deze worden afgehaald en teruggebracht na afspraak met Ilse.
+* Houdt het verbruik van de drank bij. Indien geen verbruik wordt bijgehouden, wordt er ook geen berekening gemaakt van de winst van de activiteit.
 
 > In de communicatie duidelijk verduidelijking van de verzekering opnemen:
 > “Dit is een buitenschoolse activiteit. Bij ongevallen komt de verzekering van de school niet tussen. Ieder draagt zorg voor zijn eigen oogappel.”

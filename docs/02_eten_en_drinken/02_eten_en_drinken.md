@@ -14,11 +14,14 @@
   * Stroom (Belgian Stars & Stripes / Supreme)
   * Cava
   * Wijn (wit/rosé/rood)
-* Voor het vaste drankaanbod is er een standaard prijslijst. Die vind je [hier](https://docs.google.com/document/d/1uYmumYbDPdmqLhHUQfv2uvXYHswG2ICI/edit?usp=sharing&ouid=115274712233814903018&rtpof=true&sd=true).
+
+* Voor het vaste drankaanbod is er een standaard prijslijst. Die vind je in de drive onder "B. Huidige prijslijst en leveranciers".
+* Kijk een week op voorhand of er voldoende is van alle drank. Indien bestellingen nodig zijn, vind je de lijst met de vaste leveranciers en wie hiervoor verantwoordelijk is in de drive onder "B. Huidige prijslijst en leveranciers".
+*
 
 * [ ] #TODO: koffie en thee verduidelijken
 
-* Prijslijst ligt klaar in één van de schuiven naast de ijskasten en moet enkel opgehangen worden (zie verder bij [voor de activiteit](voor_activiteit.md)).
+* Prijslijst ligt klaar in één van de schuiven naast de ijskasten en moet enkel opgehangen worden (zie verder bij [voor de activiteit](03_dag_voor_de_activiteit/03_dag_voor_de_activiteit.md)).
 
 * [ ] #TODO: prijslijst 10x afdrukken, lamineren en in schuif steken
 

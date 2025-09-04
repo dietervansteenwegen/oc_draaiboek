@@ -2,6 +2,7 @@
 
 ## Inhoudstafel
 <!-- 
+* [Changelog](CHANGELOG.md)
 * [Verantwoordelijke](01_Verantwoordelijke/01_verantwoordelijke.md)
 * [Eten en drinken](02_eten_en_drinken/02_eten_en_drinken.md)
 * [Dag voor de activiteit](03_dag_voor_de_activiteit/03_dag_voor_de_activiteit.md)
