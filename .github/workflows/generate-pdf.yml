@@ -1,0 +1,191 @@
+name: Generate PDF Documentation
+
+on:
+  push:
+    branches: [ main, master ]
+    paths: [ 'docs/**' ]
+  pull_request:
+    branches: [ main, master ]
+    paths: [ 'docs/**' ]
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Install pandoc and dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-lang-european
+        
+    - name: Create combined markdown file
+      run: |
+        cd docs
+        
+        # Create a temporary directory for processing
+        mkdir -p temp
+        
+        # Function to process markdown files and extract links
+        python3 << 'EOF'
+        import os
+        import re
+        import shutil
+        from pathlib import Path
+        
+        def extract_markdown_links(content):
+            """Extract markdown links from content"""
+            # Pattern for markdown links: [text](path)
+            link_pattern = r'\[([^\]]+)\]\(([^)]+\.md)\)'
+            return re.findall(link_pattern, content)
+        
+        def copy_images_and_update_paths(content, source_dir, target_dir):
+            """Copy images and update their paths in content"""
+            # Pattern for markdown images: ![alt](path)
+            img_pattern = r'!\[([^\]]*)\]\(([^)]+)\)'
+            
+            def replace_image(match):
+                alt_text = match.group(1)
+                img_path = match.group(2)
+                
+                # Skip if it's already an absolute path or URL
+                if img_path.startswith(('http://', 'https://', '/')):
+                    return match.group(0)
+                
+                # Resolve the image path relative to the source directory
+                source_img_path = Path(source_dir) / img_path
+                
+                if source_img_path.exists():
+                    # Create target directory structure
+                    target_img_path = Path(target_dir) / source_img_path.name
+                    target_img_path.parent.mkdir(parents=True, exist_ok=True)
+                    
+                    # Copy the image
+                    shutil.copy2(source_img_path, target_img_path)
+                    
+                    # Return updated markdown with new path
+                    return f'![{alt_text}]({target_img_path.name})'
+                else:
+                    print(f"Warning: Image not found: {source_img_path}")
+                    return match.group(0)
+            
+            return re.sub(img_pattern, replace_image, content)
+        
+        def process_markdown_file(file_path, processed_files, combined_content, base_dir):
+            """Recursively process markdown files"""
+            if file_path in processed_files:
+                return
+                
+            processed_files.add(file_path)
+            
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                # Copy images and update paths
+                file_dir = os.path.dirname(file_path)
+                content = copy_images_and_update_paths(content, file_dir, 'temp/images')
+                
+                # Add file content to combined content
+                relative_path = os.path.relpath(file_path, base_dir)
+                combined_content.append(f"\n\n<!-- Source: {relative_path} -->\n")
+                combined_content.append(content)
+                combined_content.append("\n\n\\newpage\n\n")
+                
+                # Extract and process linked markdown files
+                links = extract_markdown_links(content)
+                for link_text, link_path in links:
+                    # Resolve relative paths
+                    if not link_path.startswith('/'):
+                        full_link_path = os.path.join(file_dir, link_path)
+                        full_link_path = os.path.normpath(full_link_path)
+                    else:
+                        full_link_path = link_path
+                    
+                    if os.path.exists(full_link_path) and full_link_path.endswith('.md'):
+                        process_markdown_file(full_link_path, processed_files, combined_content, base_dir)
+                        
+            except Exception as e:
+                print(f"Error processing {file_path}: {e}")
+        
+        # Start processing from index.md
+        base_dir = '.'
+        processed_files = set()
+        combined_content = []
+        
+        # Create images directory
+        os.makedirs('temp/images', exist_ok=True)
+        
+        # Process starting from index.md
+        if os.path.exists('index.md'):
+            process_markdown_file('index.md', processed_files, combined_content, base_dir)
+        
+        # Write combined content
+        with open('temp/combined.md', 'w', encoding='utf-8') as f:
+            f.write(''.join(combined_content))
+        
+        print("Combined markdown file created successfully")
+        print(f"Processed {len(processed_files)} files")
+        EOF
+        
+    - name: Generate PDF
+      run: |
+        cd docs/temp
+        
+        # Create a pandoc metadata file
+        cat > metadata.yaml << 'EOF'
+        ---
+        title: "Draaiboek OC Café"
+        author: "Oudercomité De Oogappel"
+        date: \today
+        documentclass: article
+        geometry: margin=2cm
+        fontsize: 11pt
+        header-includes:
+          - \usepackage{fancyhdr}
+          - \usepackage{graphicx}
+          - \usepackage{float}
+          - \pagestyle{fancy}
+          - \fancyhf{}
+          - \rhead{Draaiboek OC Café}
+          - \lhead{\today}
+          - \cfoot{\thepage}
+        ---
+        EOF
+        
+        # Generate PDF using pandoc
+        pandoc metadata.yaml combined.md \
+          --from markdown \
+          --to pdf \
+          --output "Draaiboek-OC-Cafe.pdf" \
+          --pdf-engine=pdflatex \
+          --toc \
+          --toc-depth=2 \
+          --number-sections \
+          --highlight-style=tango \
+          --variable=block-headings \
+          -V colorlinks=true \
+          -V linkcolor=blue \
+          -V urlcolor=blue \
+          -V toccolor=blue
+        
+        # Move PDF to root for artifact upload
+        mv "Draaiboek-OC-Cafe.pdf" "../../Draaiboek-OC-Cafe.pdf"
+        
+    - name: Upload PDF as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: draaiboek-pdf
+        path: Draaiboek-OC-Cafe.pdf
+        retention-days: 90
+        
+    - name: Upload PDF to release (on tag)
+      if: startsWith(github.ref, 'refs/tags/')
+      uses: softprops/action-gh-release@v1
+      with:
+        files: Draaiboek-OC-Cafe.pdf
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
