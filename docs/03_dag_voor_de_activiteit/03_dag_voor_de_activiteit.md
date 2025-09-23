@@ -2,7 +2,7 @@
 
 * Kassa ophalen bij Ilse
 * Drank koud zetten:
-  * Voorraad drank staat in de kelder via trap keuken (sleutel aan radiator)
+  * Voorraad drank staat in de kelder via trap keuken (sleutel in het sleutelkastje, code bij Bjorn of verantwoordelijke OC)
   * Tellen huidige aantallen in de kelder voor het vullen van de koelkasten en aantallen doorgeven aan [ocdeoogappel@gmail.com](ocdeoogappel@gmail.com).
   * Let op: niet alle ijskasten mogen gebruikt worden (zie verder)
   * Voorbeelden van hoeveelheden: zie verder

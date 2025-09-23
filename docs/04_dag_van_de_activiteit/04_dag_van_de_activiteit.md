@@ -14,26 +14,26 @@
 
 ## Wat vind je waar?
 
-| Wat                            | Waar                                     | Opmerkingen                                       |
-| ------------------------------ | ---------------------------------------- | ------------------------------------------------- |
-| Glazen                         | Kast restaurantje                        |                                                   |
-| Toogplanken                    | Boven op de kasten (restaurantje)        |                                                   |
-| Prijslijsten + plakband        | Kast restaurantje bovenste schuif rechts |                                                   |
-| Kurkentrekkers + schrijfgerief | Kast restaurantje bovenste schuif rechts |                                                   |
-| Dienbladen                     | Keuken                                   | #TODO: Waar?                                      |
-| Schotelvodden                  | Restaurantje, kastjes naast de keuken    | Na gebruik op het droogrekje in de keuken hangen. |
-| Plastic bekers                 | Keuken, kast naast vaatwasmachine        |                                                   |
-| Servies en bestek              | Keuken, kast naast vaatwasmachine        |                                                   |
-| Voorraad drank                 | Kelder via keuken                        |                                                   |
-| Statafels                      | Kelder via bruine zaal                   |                                                   |
-| Spoeltafels                    | Kelder via bruine zaal                   |                                                   |
-| Verlengkabels                  | Kelder via bruine zaal                   |                                                   |
-| Vuurkorven                     | Kelder via bruine zaal                   |                                                   |
-| Ladders                        | Onderaan trap vanuit bruine zaal         |                                                   |
-| Handdoeken                     | Restaurantje                             | #TODO: Waar?                                      |
-| Verdeeldozen                   |                                          | #TODO: Waar?                                      |
-| Borstel/vuilblik               |                                          | #TODO: waar?                                             |
-| Dweil                          |                                          | #TODO: waar? |
+| Wat                            | Waar                                                      | Opmerkingen                                       |
+| ------------------------------ | --------------------------------------------------------- | ------------------------------------------------- |
+| Glazen                         | Kast restaurantje                                         |                                                   |
+| Toogplanken                    | Boven op de kasten (restaurantje)                         |                                                   |
+| Prijslijsten + plakband        | Kast restaurantje bovenste schuif rechts                  |                                                   |
+| Kurkentrekkers + schrijfgerief | Kast restaurantje bovenste schuif rechts                  |                                                   |
+| Dienbladen                     | Keuken                                                    | #TODO: Waar?                                      |
+| Schotelvodden                  | Restaurantje, kastjes naast de keuken                     | Na gebruik op het droogrekje in de keuken hangen. |
+| Plastic bekers                 | Keuken, kast naast vaatwasmachine                         |                                                   |
+| Servies en bestek              | Keuken, kast naast vaatwasmachine                         |                                                   |
+| Voorraad drank                 | Kelder via keuken, code via Bjorn of verantwoordelijke OC |                                                   |
+| Statafels                      | Kelder via bruine zaal                                    |                                                   |
+| Spoeltafels                    | Kelder via bruine zaal                                    |                                                   |
+| Verlengkabels                  | Kelder via bruine zaal                                    |                                                   |
+| Vuurkorven                     | Kelder via bruine zaal                                    |                                                   |
+| Ladders                        | Onderaan trap vanuit bruine zaal                          |                                                   |
+| Handdoeken                     | Restaurantje                                              | #TODO: Waar?                                      |
+| Verdeeldozen                   |                                                           | #TODO: Waar?                                      |
+| Borstel/vuilblik               | In de gang naar het restaurantje, achter de deur          | #TODO: waar?                                      |
+| Dweil                          |                                                           | #TODO: waar?                                      |
 
 ![alt text](imgs/Kasten_restaurantje.png)
 ![alt text](imgs/Overzicht_kelder_koen.png)
