@@ -1,8 +1,7 @@
 # Draaiboek OC Café
 
 ## Inhoudstafel
-
-* [Changelog](CHANGELOG.md)
+<!-- 
 * [Verantwoordelijke](01_Verantwoordelijke/01_verantwoordelijke.md)
 * [Eten en drinken](02_eten_en_drinken/02_eten_en_drinken.md)
 * [Dag voor de activiteit](03_dag_voor_de_activiteit/03_dag_voor_de_activiteit.md)
@@ -11,6 +10,7 @@
 * [Tijdens de activiteit: gebruik afwasmachine](99_apparaten/gebruik_afwasmachine.md)
 * [Tijdens de activiteit: gebruik percolator](99_apparaten/gebruik_percolator.md)
 * [Na de activiteit](06_na_de_activiteit/06_na_de_activiteit.md)
+* [Changelog](CHANGELOG.md) -->
 
 * [ ] #TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"
 
@@ -18,7 +18,6 @@
 ---
 maxdepth: 3
 ---
-CHANGELOG
 01_Verantwoordelijke/01_verantwoordelijke
 02_eten_en_drinken/02_eten_en_drinken
 03_dag_voor_de_activiteit/03_dag_voor_de_activiteit
@@ -28,4 +27,5 @@ CHANGELOG
 99_apparaten/gebruik_percolator
 99_apparaten/gebruik_frituur
 06_na_de_activiteit/06_na_de_activiteit
+CHANGELOG
 ```

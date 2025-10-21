@@ -21,7 +21,7 @@
 | Prijslijsten + plakband        | Kast restaurantje bovenste schuif rechts                  |                                                   |
 | Kurkentrekkers + schrijfgerief | Kast restaurantje bovenste schuif rechts                  |                                                   |
 | Dienbladen                     | Keuken                                                    | #TODO: Waar?                                      |
-| Schotelvodden                  | Restaurantje, kastjes naast de keuken                     | Na gebruik op het droogrekje in de keuken hangen. |
+| Schotelvodden                  | Restaurantje, linker kast naast de keuken                 | Na gebruik op het droogrekje in de keuken hangen. |
 | Plastic bekers                 | Keuken, kast naast vaatwasmachine                         |                                                   |
 | Servies en bestek              | Keuken, kast naast vaatwasmachine                         |                                                   |
 | Voorraad drank                 | Kelder via keuken, code via Bjorn of verantwoordelijke OC |                                                   |
@@ -30,13 +30,15 @@
 | Verlengkabels                  | Kelder via bruine zaal                                    |                                                   |
 | Vuurkorven                     | Kelder via bruine zaal                                    |                                                   |
 | Ladders                        | Onderaan trap vanuit bruine zaal                          |                                                   |
-| Handdoeken                     | Restaurantje                                              | #TODO: Waar?                                      |
+| Handdoeken                     | Restaurantje                                              | Zie foto                                          |
 | Verdeeldozen                   |                                                           | #TODO: Waar?                                      |
-| Borstel/vuilblik               | In de gang naar het restaurantje, achter de deur          | #TODO: waar?                                      |
-| Dweil                          |                                                           | #TODO: waar?                                      |
+| Borstel/vuilblik               | In de gang naar het restaurantje, achter de deur          |                                                   |
+| Dweil                          |                                                           | Zie foto                                          |
 
-![alt text](imgs/Kasten_restaurantje.png)
-![alt text](imgs/Overzicht_kelder_koen.png)
+![Kasten glazen restaurantje](imgs/Kasten_restaurantje.png)
+![Kelder bruine zaal](imgs/Overzicht_kelder_koen.png)
+![Handdoeken en dweilen](imgs/handdoeken_dweilen.jpg)
+![Vuilblikken](imgs/vuilblikken.jpg)
 
 * #TODO: invoegen foto met nummers/markeringen
 

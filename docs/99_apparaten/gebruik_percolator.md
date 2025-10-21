@@ -17,11 +17,12 @@ De percolator bestaat uit drie delen:
 
 * Gebruik best grof gemalen koffie. Indien niet, plaats een extra filterpapier (hebben we niet).
 * De percolator altijd minstens voor de helft vullen met KOUD water
-* Reken op 6 gram koffie per tas. Voor een volle percolator van ____________ liter, gebruik je ongeveer __________
+* Reken op 6 gram koffie per tas. Voor een volle percolator, vul je ongeveer de volledige filter.
 * Zet het deksel boven op de percolator
 * Zet de percolator aan. Het lichtje gaat branden.
 
 De percolator begint nu op te warmen. Wanneer het groene lichtje aan gaat, is de koffie klaar.
+Hou er rekening mee dat dit een uur kan duren voor een volledige percolator.
 
 Wanneer er geen koffie meer te zien is in het glazen buisje, zet de percolator UIT.
 
