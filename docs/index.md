@@ -27,3 +27,8 @@ maxdepth: 3
 06_na_de_activiteit/06_na_de_activiteit
 CHANGELOG
 ``` -->
+
+.. toctree::
+   :glob:
+
+*
