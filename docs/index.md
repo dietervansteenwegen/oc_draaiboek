@@ -11,9 +11,7 @@
 * [Tijdens de activiteit: gebruik percolator](99_apparaten/gebruik_percolator.md)
 * [Na de activiteit](06_na_de_activiteit/06_na_de_activiteit.md)
 * [Changelog](CHANGELOG.md) -->
-
-* [ ] #TODO: toevoegen "Percolator op tijd", " Waar verdeeldozen vinden"
-
+<!-- 
 ```{toctree}
 ---
 maxdepth: 3
@@ -28,4 +26,4 @@ maxdepth: 3
 99_apparaten/gebruik_frituur
 06_na_de_activiteit/06_na_de_activiteit
 CHANGELOG
-```
+``` -->

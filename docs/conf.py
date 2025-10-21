@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import datetime
+import os
 from subprocess import PIPE, Popen
 
 # This file is execfile()d with the current directory set to its
@@ -48,9 +49,10 @@ master_doc = "index"
 # General information about the project.
 project = "Draaiboek OC De Oogappel"
 author = "Dieter Vansteenwegen"
-copyright = "{}, {}".format(datetime.date.today().year, author)
+copyright = "{}".format(datetime.date.today().year)
 
 html_logo = "Oogappel_logo.png"
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "/")
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

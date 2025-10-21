@@ -11,3 +11,5 @@
 |            |        | Dubbele index verwijderd                          |
 |            |        | Hoeveelheid koffie voor percolator toegevoegd     |
 |            |        | Foto's restaurantje toegevoegd                    |
+|            |        | Verwijder copyright naam                          |
+|            |        |                                                   |
