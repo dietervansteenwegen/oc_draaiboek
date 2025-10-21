@@ -11,7 +11,7 @@
 * [Tijdens de activiteit: gebruik percolator](99_apparaten/gebruik_percolator.md)
 * [Na de activiteit](06_na_de_activiteit/06_na_de_activiteit.md)
 * [Changelog](CHANGELOG.md) -->
-<!-- 
+
 ```{toctree}
 ---
 maxdepth: 3
@@ -26,9 +26,3 @@ maxdepth: 3
 99_apparaten/gebruik_frituur
 06_na_de_activiteit/06_na_de_activiteit
 CHANGELOG
-``` -->
-
-.. toctree::
-   :glob:
-
-*
