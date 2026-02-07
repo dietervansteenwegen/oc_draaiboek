@@ -3,4 +3,6 @@ furo
 sphinx-autobuild
 sphinx-copybutton
 myst-parser
+myst-parser[linkify]
+linkify-it-py
 cogapp
